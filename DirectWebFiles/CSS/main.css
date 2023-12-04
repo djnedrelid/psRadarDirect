@@ -1,0 +1,184 @@
+BODY {
+	background-color: #fff;
+	margin: 10px;
+	padding: 10px;
+	font-family: Verdana;
+	font-size: 12px;
+}
+H1 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 24px;
+}
+HR {
+	border: 1px solid #333;
+	padding: 0px;
+	margin: 10px 0px;
+}
+
+#Main {
+	background-color: #fff;
+	width: 900px;
+	margin: 0px auto 0px auto;
+}
+#Header {
+	padding: 20px 0px 10px 0px;
+	border-bottom: 2px solid #0c2e82;
+}
+#LeftMenu {
+	background-color: #fff;
+	border-left: 2px solid #0c2e82;
+	border-right: 2px solid #0c2e82;
+	border-bottom: 2px solid #0c2e82;
+	float: left;
+	width: 200px;
+	padding: 10px;
+}
+#LeftMenu A {
+	font-weight: bold;
+	color: #0c2e82;
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	display: block;
+	margin-bottom: 5px;
+}
+#LeftMenu A:HOVER {
+	text-decoration: underline;
+}
+#Content {
+	background-color: #fff;
+	margin-left: 220px;
+	padding: 20px 0px 20px 20px;
+	color: #000;
+}
+#Content .ucreds_submit {
+	width: 100px;
+	margin: 10px 0px 0px 0px;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Arial;
+	border-radius: 10px;
+	background-color: #0c2e82;
+	border: 1px solid #0c2e82;
+	color: #fff;
+}
+#Content A {
+	font-weight: bold;
+	color: #0c2e82;
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+#Content A:HOVER {
+	text-decoration: underline;
+}
+#Content .FormText {
+	color: #000;
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+#Content .newpass {
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 5px;
+}
+#Content TABLE.AgentList,
+#ShowUserAgentStatsContainer TABLE.AgentList {
+	border: 2px solid #0c2e82;
+	border-radius: 5px;
+	padding: 5px;
+	width: 100%;
+}
+#Content TABLE.AgentList TD,
+#ShowUserAgentStatsContainer TABLE.AgentList TD {
+	text-align: center;
+	padding: 5px;
+}
+#Content TABLE.AgentList TD.Headers,
+#ShowUserAgentStatsContainer TABLE.AgentList TD.Headers {
+	border-bottom: 2px solid #0c2e82;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#Footer {
+	clear: both;
+	padding: 20px;
+	color: #696969;
+	text-align: center;
+}
+#Footer A {
+	text-decoration: none;
+	color: #696969;
+}
+#Footer A:HOVER {
+	text-decoration: underline;
+}
+#ShowUserAgentStatsContainer, 
+#ShowUserLicenseInfoContainer {
+	position: absolute;
+	top: 200px;
+	left: 0px;
+	right: 0px;
+	width: 800px;
+	margin: 0px auto 0px auto;
+	padding: 10px;
+	border: 2px solid #333;
+	border-radius: 10px;
+	background-color: #fff;
+	color: #000;
+	font-size: 13px;
+}
+#ShowUserAgentStatsContainerClose, 
+#ShowUserLicenseInfoContainerClose {
+	position: relative;
+	float: right;
+}
+#ShowUserAgentStatsContainer H1, 
+#ShowUserLicenseInfoContainer H1 {
+	color: #0c2e82;
+}
+#ShowUserAgentStatsContainerClose A, 
+#ShowUserLicenseInfoContainerClose A {
+	font-weight: bold;
+	color: #0c2e82;
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+#ShowUserAgentStatsContainerClose A:HOVER, 
+#ShowUserLicenseInfoContainerClose A:HOVER {
+	text-decoration: underline;
+}
+.FAQQuestionHeader {
+	font-weight: bold; 
+	font-size: 16px;
+	color: #0c2e82;
+}
+.HeaderImg1 {
+	margin-right: 20px;
+}
+.HeaderText1 {
+	vertical-align: middle;
+	font-size: 13px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #0c2e82;
+}
+.HeaderText2 {
+	font-size: 14px;
+	color: #999;
+	font-family: Arial;
+}
+.LeftMenuHeader1 {
+	color: #000;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 22px;
+}
+.error {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: red;
+}

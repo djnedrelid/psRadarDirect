@@ -1,0 +1,184 @@
+BODY {
+	background-color: #fff;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+}
+H1 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 24px;
+}
+
+#SwapPlexCalContainer {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	text-align: right;
+}
+#SwapPlexCalContainer A {
+	color: blue;
+	text-decoration: none;
+}
+#SwapPlexCalContainer A:HOVER {
+	text-decoration: underline;
+}
+
+div#Main {
+	background-color: #fff;
+	margin: 0px auto 0px auto;
+}
+div#Header {
+	padding: 20px;
+}
+div#Content {
+	background-color: #fff;
+	padding: 20px;
+	color: #000;
+}
+div#Content .FormText {
+	color: #fff;
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+div#Content .newpass {
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 5px;
+}
+div#Content TABLE.SonarrCalendarList {
+	border: 2px solid #0c2e82;
+	border-radius: 5px;
+	padding: 5px;
+	width: 100%;
+}
+div#Content TABLE.SonarrCalendarList TD {
+	text-align: center;
+	padding: 5px;
+}
+div#Content TABLE.SonarrCalendarList TD.Headers {
+	border-bottom: 2px solid #0c2e82;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+div#Content A {
+	font-weight: bold;
+	color: #0c2e82;
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	display: block;
+	margin-bottom: 5px;
+}
+div#Content A:HOVER {
+	text-decoration: underline;
+}
+div#Footer {
+	clear: both;
+	padding: 20px;
+	color: #696969;
+	text-align: center;
+}
+div#Footer A {
+	text-decoration: none;
+	color: #696969;
+}
+div#Footer A:HOVER {
+	text-decoration: underline;
+}
+div#HWinfo {
+	font-size: 11px;
+	font-family: Verdana;
+	color: #000;
+}
+div#Content .SonarrCalendarContainer {
+	border-top: 0px;
+	border-right: 5px;
+	border-bottom: 0px;
+	border-left: 5px;
+	border-style: solid;
+	border-color: #000;
+	border-radius: 0px;
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	background-color: #1f1f1f;
+}
+div#Content .SonarrCalendarContainerNoFile {
+	opacity: .9;
+	filter: alpha(opacity=90);
+}
+
+.HeaderImg1 {
+	margin-right: 20px;
+	float: left;
+	vertical-align: middle;
+}
+.HeaderText1 {
+	vertical-align: middle;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Arial;
+	color: #0c2e82;
+}
+.HeaderText2 {
+	font-size: 14px;
+	color: #fff;
+	font-family: Arial;
+}
+.ContentHeader1 {
+	color: #fff;
+	font-size: 24px;
+}
+.SeasonEpisodeHeader {
+	font-size: 16px;
+	color: #fff;
+}
+.MiniHeader1 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial;
+	color: #fff;
+}
+.EpisodeAvailable {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial;
+	color: green;
+}
+.EpisodeUNAvailable {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial;
+	color: #999;
+}
+.error {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: red;
+}
+.SonarrPosterThumb {
+	padding-right: 20px;
+	float: left;
+	height: 100px;
+}
+.SonarrEpisodeDateHeader {
+	font-weight: normal;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	background-color: #0c2e82 !important;
+	border: none !important;
+	color: #fff;
+	text-shadow: 0px 0px 2px #fff;
+}
+.SonarrEpisodeWeekHeader {
+	font-weight: bold;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 32px;
+	background-color: #fff !important;
+	border: 0px solid #999 !important;
+	color: #333;
+	padding: 10px 5px !important;
+	text-align: center;
+}
