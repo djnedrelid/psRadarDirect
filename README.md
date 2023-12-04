@@ -6,8 +6,11 @@ Man kan deretter se aktivitet på Plex, og evt. gi Sonarr kalenderlenker til ven
    
 
 ![Example UI_1](1.jpg)  
+
 ![Example UI_1](2.jpg)  
+
 ![Example UI_1](3.jpg)  
+
 ![Example UI_1](4.jpg)  
    
 
