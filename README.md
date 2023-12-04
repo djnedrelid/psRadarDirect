@@ -5,10 +5,10 @@ Program installeres på en Windows server med Plex og/eller Sonarr.
 Man kan deretter se aktivitet på Plex, og evt. gi Sonarr kalenderlenker til venner.  
    
 
-![Example UI_1](1.png)  
-![Example UI_1](2.png)  
-![Example UI_1](3.png)  
-![Example UI_1](4.png)  
+![Example UI_1](1.jpg)  
+![Example UI_1](2.jpg)  
+![Example UI_1](3.jpg)  
+![Example UI_1](4.jpg)  
    
 
 **Beskrivelse på engelsk hentet fra gammel nettside:**  
